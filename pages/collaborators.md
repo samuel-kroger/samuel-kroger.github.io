@@ -1,7 +1,7 @@
-## My Collaborators and Mentors
+### My Collaborators and Mentors
 
 # Illya V. Hicks
-testing
+
 # Hamidreza Validi
 
 # Tyler Perini
