@@ -9,7 +9,7 @@ In this website you will find a [biography](pages/bio.md), my [teaching experinc
 
 ## Maximum Anchored $k$-core
 
-The maximum anchored $k$-core problem is defined as:
+Given a simple finite graph $G$ and paramater $k$ and $b$, we seek a largest subgraph of $G$ in which
 
 ## Congressional districting
 
