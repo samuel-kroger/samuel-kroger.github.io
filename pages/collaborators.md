@@ -1,4 +1,6 @@
-### My Collaborators and Mentors
+---
+title: Collaborators and Mentors
+---
 
 # Illya V. Hicks
 

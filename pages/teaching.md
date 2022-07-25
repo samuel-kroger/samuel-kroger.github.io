@@ -1,4 +1,6 @@
-## Teaching Experience
+---
+title: Teaching Experience
+---
 
 I am very passionate about teaching.
 During my second year at Rice I started pursuing a [certificate in teaching and learning](https://cte.rice.edu/grads), a four course certificate program at Rice University's Center for Teaching Excellence.
