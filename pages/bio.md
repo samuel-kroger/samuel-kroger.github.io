@@ -7,8 +7,7 @@ My name is Samuel Kroger, I was born and raised in Houston Texas.
 In 2016 I began pursuing a bachlors of arts at Bates College.
 While at Bates I worked on three research projects.
 
-1. Research for Blake Sturtevant, PhD, Professor of Physics, Bates College, 2017 - I applied various polynomial fitting routines in Python, MATLAB, and R to large data sets
-	collected from the Los Alamos National Lab.
+1. Research for Blake Sturtevant, PhD, Professor of Physics, Bates College, 2017 - I applied various polynomial fitting routines in Python, MATLAB, and R to large data sets collected from the Los Alamos National Lab.
 
 2. Research for Raj Saha, PhD, MS, Professor of Physics, Bates College 2017 – 2018 - I downloaded data from the Global Terrestrial Network for Permafrost (GTN-P) to create models of how heat transfers between different depths of permafrost using partial differential equations.
 
