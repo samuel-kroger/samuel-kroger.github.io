@@ -1,4 +1,3 @@
-## Samuel Kroger's Research Website
 
 My name is Samuel Kroger, I am a fourth year PhD student at the department of Computational applied Mathematics and Operations Research (CMOR) at Rice University.
 I recived my MA of Computational applied Mathematics and Operations research from Rice University and a BA of Mathematics from Bates college.
