@@ -1,7 +1,7 @@
 ## Teaching Experience
 
 I am very passionate about teaching.
-Throughout my time at Rice I have been pursuing a [certificate in teaching and learning](https://cte.rice.edu/grads), a four course certificate program at Rice University's center for teaching excellence.
+Throughout my time at Rice I have been pursuing a [certificate in teaching and learning](https://cte.rice.edu/grads), a four course certificate program at Rice University's Center for Teaching Excellence.
 
 At Rice I have had the following teaching responsibility:
 - Grader, CAAM 570, Graph Theory Spring 2021
