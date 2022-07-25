@@ -1,3 +1,4 @@
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+theme: Minima
 #remote_theme: cotes2020/jekyll-theme-chirpy
 #remote_theme: Huxpro/huxpro.github.io
