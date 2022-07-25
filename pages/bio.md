@@ -21,5 +21,5 @@ At the time LOGAN SMITH, a member of Dr. Hicks's research group shared with me T
 I started using Integer Programming (IP) to solve the anchored k-core problem alongside mentor and post doc of Dr.Hicks research group Hamidreza Validi.
 Around the same time Hamid introduced me to the Majority-Minority districting problem and we began work on that.
 In March of 2022 I defended my masters thesis on the maximum anchored k-core problem.
-In July 2022, I submitted my first paper [Maximizing resilience in large-scale social networks](http://www.optimization-online.org/DB_FILE/2022/07/8993.pdf).
+In July 2022, I submitted my first paper [Maximizing resilience in large-scale social networks](http://www.optimization-online.org/DB_HTML/2022/07/8993.html).
 Currently I am working on submitting a paper on applying benders decomposition to the Majority-Minority districting problem.
