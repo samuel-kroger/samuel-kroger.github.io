@@ -10,4 +10,4 @@ title: Collaborators and Mentors
 
 # Logan Smith
 
-# Katherine Ott
+# Katharine A. Ott
