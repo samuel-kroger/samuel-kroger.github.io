@@ -6,7 +6,7 @@ I recived my MA of Computational applied Mathematics and Operations research fro
 
 I am interested in the intersection of mixed integer programming, graph theory and combinatorics.
 
-In this website you will find a [biography](pages/bio.md), my [teaching experince](pages/teaching.md), my [resume](pages/Samuel_Kroger_Resume.pdf), my [CV](pdfs/Samuel_Kroger_cv.pdf), my [collaborators](collaborators), [publications](pages/publications), my research projects(below).
+In this website you will find a [biography](pages/bio.md), my [teaching experince](pages/teaching.md), my [resume](pdfs/Samuel_Kroger_Resume.pdf), my [CV](pdfs/Samuel_Kroger_cv.pdf), my [collaborators](collaborators), [publications](pages/publications), my research projects(below).
 
 ![An image of me, Samuel Kroger](images/samuel_kroger.jpg)
 
