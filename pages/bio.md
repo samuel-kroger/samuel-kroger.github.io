@@ -1,3 +1,6 @@
+---
+title: Biography
+---
 
 
 My name is Samuel Kroger, I was born and raised in Houston Texas.
