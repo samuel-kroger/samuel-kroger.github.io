@@ -1,4 +1,4 @@
-## Home
+### Home
 My name is Samuel Kroger, I am a fourth year PhD student at the department of Computational applied Mathematics and Operations Research (CMOR) at Rice University.
 I received my MA of Computational applied Mathematics and Operations research from Rice University in 2022 and a BA of Mathematics from Bates college in 2019.
 I am interested in the intersection of mixed integer programming, graph theory and combinatorics.
@@ -9,7 +9,7 @@ In this website you will find a [biography](pages/bio.md), my [teaching experien
 
 Thanks for visiting my website, feel free to reach out to me at sakroger@rice.edu with any questions.
 
-## Maximum Anchored $k$-core
+## Maximum Anchored k-core
 
 Given a simple finite graph G and parameter k and b, we seek a largest subgraph of G in which
 This problem is vital to making networks more resilient.

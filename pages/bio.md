@@ -20,4 +20,3 @@ Around the same time Hamid introduced me to the Majority-Minority districting pr
 In March of 2022 I defended my masters thesis on the maximum anchored k-core problem.
 In July 2022, I submitted my first paper [Maximizing resilience in large-scale social networks](http://www.optimization-online.org/DB_FILE/2022/07/8993.pdf).
 Currently I am working on submitting a paper on applying benders decomposition to the Majority-Minority districting problem.
-
