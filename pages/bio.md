@@ -16,7 +16,7 @@ While at Bates I worked on three research projects.
 After I graduated from Bates College in 2019, I began a PhD at Rice University in the department of Computational applied Mathematics and Operations Research.
 My advisor is doctor [Illya V. Hicks](https://www.caam.rice.edu/~ivhicks/Site/professional.html).
 After passing my qualifying exams(It took me a second attempt) I began work on my first research project: The Anchored k-core problem.
-At the time LOGAN SMITH, a member of Dr. Hicks's research group shared with me THIS PAPER.
+At the time Logan Smith, a member of Dr. Hicks's research group shared with me a paper on the anchored k-core problem.
 I started using Integer Programming (IP) to solve the anchored k-core problem alongside mentor and post doc of Dr.Hicks research group Hamidreza Validi.
 Around the same time Hamid introduced me to the Majority-Minority districting problem and we began work on that.
 In March of 2022 I defended my masters thesis on the maximum anchored k-core problem.
