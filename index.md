@@ -33,11 +33,14 @@ These majority-minority districts must satisfy three conditions:
 
 In this work we aim to produce viable maps which include these majority-minority districts.
 
+
 ## A fixing Algorithm for the Maximum Cardinality Independent set Problem
 An independent set I, is a subset of a graph G such that the subgraph induced by I (i.e., G[i]) has no edges.
 The maximum cardinality independent set problem(MCIP), seeks a independent set I with largest cardinality.
 This is a well studied problem with a ray of applications spanning, chemistry, genetics, coding theory, graph coloring, and covering problems. 
 In this work we propose a polynomial time algorithm which can fix simplicial vertices for the MCIP.
+This algorithm recursively fixes certain simplicial vertices and their neighbors to solve the MCIP more efficiently. 
+Below is an image showing how our polynomial time algorithm can prune the karate graph into only four nodes. The red vertices are simplicial nodes, the yellow vertices are neighbors of simplicial vertices, and the blue vertices are the remaining vertices. 
 ![Figure 1](images/karate.jpg?raw=true "Fixing results of our algorithm")
 
 ## Maximum Anchored k-core
