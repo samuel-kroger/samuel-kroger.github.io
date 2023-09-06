@@ -38,7 +38,7 @@ An independent set I, is a subset of a graph G such that the subgraph induced by
 The maximum cardinality independent set problem(MCIP), seeks a independent set I with largest cardinality.
 This is a well studied problem with a ray of applications spanning, chemistry, genetics, coding theory, graph coloring, and covering problems. 
 In this work we propose a polynomial time algorithm which can fix simplicial vertices for the MCIP.
-![Figure 1](git_images/karate.jpg?raw=true "Fixing results of our algorithm")
+![Figure 1](images/karate.jpg?raw=true "Fixing results of our algorithm")
 
 ## Maximum Anchored k-core
 
@@ -47,6 +47,6 @@ We study an extension of this problem with an additional budget parameter b.
 Given a simple finite graph G(V, E) and parameters k and b, we seek a largest subset of vertices S such that S induces a subgraph in which at most |V| - b have degree at least k.
 Solving this problem is vital to the vitality of social networks.
 Below is an optimal solution to the anchored 4 core with budget five on the karate graph.
-![Figure 2](git_images/karate_k4b5.png?raw=true "The Anchored 4-core with budget 5 of the karate graph")
+![Figure 2](images/karate_k4b5.png?raw=true "The Anchored 4-core with budget 5 of the karate graph")
 
 
