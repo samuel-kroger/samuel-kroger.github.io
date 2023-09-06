@@ -5,7 +5,7 @@ My name is Samuel Kroger, I am a fifth year PhD student at the department of Com
 I received my MA of Computational applied Mathematics and Operations research from Rice University in 2022 and a BA in Mathematics from Bates college in 2019.
 My primary research interest is the intersection of mixed integer programming, graph theory and combinatorics.
 
-On this website you will find a [biography](pages/bio.md), my [teaching experience](pages/teaching.md), my [CV](pdfs/Samuel_Kroger_cv.pdf), [publications](pages/publications), and my research projects explained below.
+On this website you will find, my [CV](pdfs/Samuel_Kroger_cv.pdf), [publications](pages/publications), [teaching experience](pages/teaching.md), and my research projects explained below.
 
 ![An image of me, Samuel Kroger](images/samuel_kroger.jpg)
 
