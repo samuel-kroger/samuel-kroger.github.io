@@ -1,7 +1,8 @@
 ---
 title: Home
 ---
-My name is Samuel Kroger, I am a fifth year PhD student at the department of Computational applied Mathematics and Operations Research (CMOR) at Rice University.
+My name is Samuel Kroger, I am an assistant professor of Data Science & Analytics at Austin College.
+I gradutaed with a PhD in Computational Applied Mathematics & Operations Research (CMOR) at Rice University in 2024.
 I received my MA of Computational applied Mathematics and Operations research from Rice University in 2022 and a BA in Mathematics from Bates college in 2019.
 My primary research interest is the intersection of mixed integer programming, graph theory and combinatorics.
 
