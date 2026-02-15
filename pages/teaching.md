@@ -2,8 +2,17 @@
 title: Teaching Experience
 ---
 
-I am very passionate about teaching.
-During my second year at Rice I started pursuing a [certificate in teaching and learning](https://cte.rice.edu/grads), a four course certificate program at Rice University's Center for Teaching Excellence. I completed the certificate in the Fall of 2023. 
+At Austin College I have taught:
+- MATH 120 - Introduction to Statistics
+- MATH 350 - Graph Theory
+- CS/DSA 111 - Introduction to Data Science with Python
+- DSA 241 - Foundations of Data Science & Analytics 
+- DSA 350 - Introduction to Optimization
+- DSA 120 - Introduction to Statistics with R
+- DSA 350 - Applied Probability Theory
+
+
+I completed Rice Universities four course [certificate in teaching and learning](https://cte.rice.edu/grads) in Fall of 2023.
 
 At Rice I have had the following teaching responsibility:
 - Instructor of Record, CAAM 334, Matrix Analysis for Data Science Summer 2023
